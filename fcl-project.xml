@@ -95,7 +95,7 @@
         <description file="fpjson.xml"/>
       </descriptions>
       <imports>
-        <import file="rtl.xct" prefix="../rtl/"/>
+        <import file="rtl.xct" prefix="ms-its:rtl.chm::/"/>
       </imports>
     </package>
   </packages>
